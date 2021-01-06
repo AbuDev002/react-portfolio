@@ -1,0 +1,101 @@
+{
+    "works": [
+        {
+            "id": 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile UX",
+            "body": "Lorem ipsun dummy text Lorem ipsun dummy text yhr fu fum dummy text"
+        },
+        {
+            "id": 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Mobile Development",
+            "body": "Lorem ipsun dummy text Lorem ipsun dummy text yhr fu fum dummy text"
+        },
+        {
+            "id": 3,
+            "icon_name": "icon fa fa-techometer fa-2x",
+            "title": "Mobile Responsive",
+            "body": "Lorem ipsun dummy text Lorem ipsun dummy text yhr fu fum dummy text"
+        }
+    ],
+
+    "Portfolio" : [
+        {
+            "id": 1,
+            "image": "/images/portfolio-img1.jpg"
+           
+        },
+        {
+            "id": 2,
+            "image": "/images/portfolio-img2.jpg"
+        },
+        {
+            "id": 3,
+            "image": "/images/portfolio-img3.jpg"
+        },
+        {
+            "id": 4,
+            "image": "/images/portfolio-img4.jpg"
+        },
+        {
+            "id": 5,
+            "image": "/images/portfolio-img5.jpg"
+        },
+        {
+            "id": 6,
+            "image": "/images/portfolio-img6.jpg"
+        },
+        {
+            "id": 7,
+            "image": "/images/portfolio-img7.jpg"
+        },
+        {
+            "id": 8,
+            "image": "/images/portfolio-img8.jpg"
+        }
+    ],
+
+    "Profile" : [
+        {
+            "id": 1,
+            "image": "/images/profile-img1.jpg"
+           
+        },
+        {
+            "id": 2,
+            "image": "/images/profile-img2.jpg"
+           
+        },
+        {
+            "id": 3,
+            "image": "/images/profile-img3.jpg"
+           
+        }
+    ],
+
+    "social" : [
+        {
+            "id": 1,
+            "icon": "icon fa fa-facebook fa-lg",
+            "title": "Follow Me on",
+            "body": "Social Facebook"
+           
+        },
+        {
+            "id": 2,
+            "icon": "icon fa fa-twitter fa-lg",
+            "title": "Tweet Me On",
+            "body": "Social Twitter"
+           
+        },
+        {
+            "id": 3,
+            "icon": "icon fa fa-pinterest fa-lg",
+            "title": "Pin Me on",
+            "body": "Socail Pinterest"
+           
+        }
+    ]
+
+}
