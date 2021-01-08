@@ -18,6 +18,7 @@ const Navbar = () => {
             <ListItem><Anchor to="#">Work</Anchor></ListItem>
             <ListItem><Anchor to="#">Portfolio</Anchor></ListItem>
             <ListItem><Anchor to="#">Resume</Anchor></ListItem>
+            <ListItem><Anchor to="#">Skills and Experience</Anchor></ListItem>
             <ListItem><Anchor to="#">About</Anchor></ListItem>
             <ListItem><Link to="/contact">Contact</Link></ListItem>
         </UlList>
